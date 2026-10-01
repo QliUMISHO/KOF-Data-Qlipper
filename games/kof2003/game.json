@@ -1,0 +1,11 @@
+{
+  "id": "kof2003",
+  "name": "The King of Fighters 2003",
+  "platform": "Neo Geo",
+  "profile_version": 1,
+  "status": "research",
+  "notes": [
+    "Do not add ROM hashes or structure offsets until they are verified.",
+    "Keep original ROM files read-only; builds should write to a separate output directory."
+  ]
+}
