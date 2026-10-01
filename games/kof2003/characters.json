@@ -1,0 +1,301 @@
+{
+  "schema_version": 2,
+  "characters": [
+    {
+      "id": "ash",
+      "name": "Ash Crimson",
+      "team": "Hero Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "duolon",
+      "name": "Duo Lon",
+      "team": "Hero Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "shen",
+      "name": "Shen Woo",
+      "team": "Hero Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "terry",
+      "name": "Terry Bogard",
+      "team": "Fatal Fury Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "joe",
+      "name": "Joe Higashi",
+      "team": "Fatal Fury Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "tizoc",
+      "name": "Tizoc",
+      "team": "Fatal Fury Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "ryo",
+      "name": "Ryo Sakazaki",
+      "team": "Art of Fighting Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "robert",
+      "name": "Robert Garcia",
+      "team": "Art of Fighting Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "yuri",
+      "name": "Yuri Sakazaki",
+      "team": "Art of Fighting Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "leona",
+      "name": "Leona Heidern",
+      "team": "Ikari Warriors Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "ralf",
+      "name": "Ralf Jones",
+      "team": "Ikari Warriors Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "clark",
+      "name": "Clark Still",
+      "team": "Ikari Warriors Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "king",
+      "name": "King",
+      "team": "Women Fighters Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "mai",
+      "name": "Mai Shiranui",
+      "team": "Women Fighters Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "mary",
+      "name": "Blue Mary",
+      "team": "Women Fighters Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "kim",
+      "name": "Kim Kaphwan",
+      "team": "Korea Justice Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "chang",
+      "name": "Chang Koehan",
+      "team": "Korea Justice Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "jhun",
+      "name": "Jhun Hoon",
+      "team": "Korea Justice Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "yamazaki",
+      "name": "Ryuji Yamazaki",
+      "team": "Outlaw Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "billy",
+      "name": "Billy Kane",
+      "team": "Outlaw Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "gato",
+      "name": "Gato",
+      "team": "Outlaw Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "benimaru",
+      "name": "Benimaru Nikaido",
+      "team": "Japan Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "daimon",
+      "name": "Goro Daimon",
+      "team": "Japan Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "shingo",
+      "name": "Shingo Yabuki",
+      "team": "Japan Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "athena",
+      "name": "Athena Asamiya",
+      "team": "High School Girls Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "hinako",
+      "name": "Hinako Shijo",
+      "team": "High School Girls Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "malin",
+      "name": "Malin",
+      "team": "High School Girls Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "kprime",
+      "name": "K'",
+      "team": "K' Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "maxima",
+      "name": "Maxima",
+      "team": "K' Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "whip",
+      "name": "Whip",
+      "team": "K' Team",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "kyo",
+      "name": "Kyo Kusanagi",
+      "team": "Single Entry",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "iori",
+      "name": "Iori Yagami",
+      "team": "Single Entry",
+      "category": "roster",
+      "selectable": true,
+      "sprite_ranges": []
+    },
+    {
+      "id": "chizuru",
+      "name": "Chizuru Kagura",
+      "team": "Sub-boss",
+      "category": "sub_boss",
+      "selectable": false,
+      "sprite_ranges": []
+    },
+    {
+      "id": "kusanagi",
+      "name": "Kusanagi",
+      "team": "Sub-boss",
+      "category": "sub_boss",
+      "selectable": false,
+      "sprite_ranges": []
+    },
+    {
+      "id": "maki",
+      "name": "Maki Kagura",
+      "team": "Sub-boss",
+      "category": "sub_boss",
+      "selectable": false,
+      "sprite_ranges": []
+    },
+    {
+      "id": "adelheid",
+      "name": "Adelheid Bernstein",
+      "team": "Boss",
+      "category": "boss",
+      "selectable": false,
+      "sprite_ranges": []
+    },
+    {
+      "id": "mukai",
+      "name": "Mukai",
+      "team": "Boss",
+      "category": "boss",
+      "selectable": false,
+      "sprite_ranges": []
+    }
+  ]
+}
